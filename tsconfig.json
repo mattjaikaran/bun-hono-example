@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "strict": true,
+    // allows us to use JSX in our code
+    "jsx": "react-jsx",
+    "jsxImportSource": "hono/jsx"
+  }
+}
